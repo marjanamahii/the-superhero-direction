@@ -1,7 +1,10 @@
-# Getting Started with Create React App
+# Books Store
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Here is our some collections of books that you can buy here
+# My live site 
+https://react-books-store.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
